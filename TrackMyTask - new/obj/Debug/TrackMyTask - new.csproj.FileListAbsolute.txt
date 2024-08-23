@@ -1,0 +1,7 @@
+C:\Users\darka\source\repos\TrackMyTask - new\TrackMyTask - new\bin\Debug\TrackMyTask - new.exe.config
+C:\Users\darka\source\repos\TrackMyTask - new\TrackMyTask - new\bin\Debug\TrackMyTask - new.exe
+C:\Users\darka\source\repos\TrackMyTask - new\TrackMyTask - new\bin\Debug\TrackMyTask - new.pdb
+C:\Users\darka\source\repos\TrackMyTask - new\TrackMyTask - new\obj\Debug\TrackMyTask - new.csproj.AssemblyReference.cache
+C:\Users\darka\source\repos\TrackMyTask - new\TrackMyTask - new\obj\Debug\TrackMyTask - new.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\TrackMyTask - new\TrackMyTask - new\obj\Debug\TrackMyTask - new.exe
+C:\Users\darka\source\repos\TrackMyTask - new\TrackMyTask - new\obj\Debug\TrackMyTask - new.pdb
